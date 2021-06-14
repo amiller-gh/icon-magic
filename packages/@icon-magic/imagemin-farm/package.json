@@ -20,7 +20,7 @@
   "dependencies": {
     "@icon-magic/logger": "^2.2.9-beta.0",
     "imagemin": "^7.0.0",
-    "imagemin-advpng": "^5.0.0",
+    "imagemin-advpng": "^6.0.0",
     "imagemin-optipng": "^8.0.0",
     "imagemin-pngcrush": "^6.0.0",
     "imagemin-zopfli": "^6.0.0"
