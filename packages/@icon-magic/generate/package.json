@@ -24,7 +24,7 @@
     "@icon-magic/logger": "^2.2.9-beta.0",
     "@icon-magic/svg-to-png": "^2.2.9-beta.0",
     "@icon-magic/timing": "^2.0.1-beta.0",
-    "svgo": "^1.3.0",
+    "svgo": "^2.3.1",
     "webp-converter": "^2.2.3",
     "workerpool": "^6.0.0"
   },
