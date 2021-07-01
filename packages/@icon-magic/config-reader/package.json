@@ -1,6 +1,6 @@
 {
   "name": "@icon-magic/config-reader",
-  "version": "2.2.9-beta.0",
+  "version": "2.2.8-beta.0",
   "description": "Icon magic config parsing/reading/writing package.",
   "main": "dist/src/index.js",
   "author": "Ramitha Chitloor <rchitloor@linkedin.com>",
@@ -18,8 +18,8 @@
     "lintfix": "tslint -t msbuild --project . -c tslint.json --fix"
   },
   "dependencies": {
-    "@icon-magic/icon-models": "^2.2.9-beta.0",
-    "@icon-magic/logger": "^2.2.9-beta.0",
+    "@icon-magic/icon-models": "^2.2.8-beta.0",
+    "@icon-magic/logger": "^2.2.10-beta.0",
     "@types/glob": "^7.1.1",
     "ajv": "^6.9.2",
     "glob": "^7.1.3",

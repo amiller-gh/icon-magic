@@ -1,6 +1,6 @@
 {
   "name": "@icon-magic/library",
-  "version": "2.2.9-beta.0",
+  "version": "2.2.11-beta.0",
   "description": "Icon magic's icon library I/O utilities.",
   "main": "dist/src/index.js",
   "author": "Adam Miller <adam@pages.me>",
@@ -18,8 +18,8 @@
     "lintfix": "tslint -t msbuild --project . -c tslint.json --fix"
   },
   "dependencies": {
-    "@icon-magic/logger": "^2.2.9-beta.0",
-    "@icon-magic/svg-to-png": "^2.2.9-beta.0",
+    "@icon-magic/logger": "^2.2.10-beta.0",
+    "@icon-magic/svg-to-png": "^2.2.8-beta.0",
     "cli-progress": "^3.6.0",
     "fs-extra": "^8.1.0",
     "png-chunk-text": "^1.0.0",

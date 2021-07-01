@@ -1,6 +1,6 @@
 {
   "name": "@icon-magic/svg-to-png",
-  "version": "2.2.9-beta.0",
+  "version": "2.2.8-beta.0",
   "description": "Icon magic blueprint package.",
   "main": "dist/src/index.js",
   "author": "Adam Miller <adam@pages.me>",
@@ -17,7 +17,7 @@
     "lintfix": "tslint -t msbuild --project . -c tslint.json --fix"
   },
   "dependencies": {
-    "@icon-magic/logger": "^2.2.9-beta.0",
+    "@icon-magic/logger": "^2.2.10-beta.0",
     "@types/fs-extra": "^8.0.0",
     "@types/puppeteer": "^3.0.0",
     "debug": "^4.1.1",

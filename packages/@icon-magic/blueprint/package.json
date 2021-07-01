@@ -17,6 +17,6 @@
     "lintfix": "tslint -t msbuild --project . -c tslint.json --fix"
   },
   "dependencies": {
-    "@icon-magic/logger": "^2.2.9-beta.0"
+    "@icon-magic/logger": "^2.2.10-beta.0"
   }
 }

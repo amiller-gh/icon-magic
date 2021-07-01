@@ -1,6 +1,6 @@
 {
   "name": "@icon-magic/server",
-  "version": "2.2.9-beta.0",
+  "version": "2.2.11-beta.0",
   "description": "Icon magic API server.",
   "main": "dist/src/index.js",
   "author": "Adam Miller <adam@pages.me>",
@@ -17,7 +17,7 @@
     "lintfix": "tslint -t msbuild --project . -c tslint.json --fix"
   },
   "dependencies": {
-    "@icon-magic/logger": "^2.2.9-beta.0",
+    "@icon-magic/logger": "^2.2.10-beta.0",
     "express": "^4.16.4"
   },
   "devDependencies": {

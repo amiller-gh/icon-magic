@@ -1,6 +1,6 @@
 {
   "name": "@icon-magic/build",
-  "version": "2.2.9-beta.0",
+  "version": "2.2.10-beta.0",
   "description": "Icon magic blueprint package.",
   "main": "dist/src/index.js",
   "author": "Ramitha Chitloor <rchitloor@linkedin.com>",
@@ -19,9 +19,9 @@
     "cli": "yarn run build && icon-magic"
   },
   "dependencies": {
-    "@icon-magic/config-reader": "^2.2.9-beta.0",
-    "@icon-magic/icon-models": "^2.2.9-beta.0",
-    "@icon-magic/logger": "^2.2.9-beta.0",
+    "@icon-magic/config-reader": "^2.2.8-beta.0",
+    "@icon-magic/icon-models": "^2.2.8-beta.0",
+    "@icon-magic/logger": "^2.2.10-beta.0",
     "@icon-magic/timing": "^2.0.1-beta.0"
   }
 }
