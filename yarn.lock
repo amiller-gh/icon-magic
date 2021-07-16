@@ -8086,9 +8086,9 @@ webidl-conversions@^4.0.2:
   integrity sha512-YQ+BmxuTgd6UXZW3+ICGfyqRyHXVlD5GtQr5+qjiNW7bF0cqrzX500HVXPBOvgXb5YnzDd+h0zqyv61KUD7+Sg==
 
 webp-converter@^2.1.6, webp-converter@^2.2.3:
-  version "2.2.3"
-  resolved "https://registry.yarnpkg.com/webp-converter/-/webp-converter-2.2.3.tgz#ffee88b2f23b0b6d14ecb1ec34bd8b6e529171f1"
-  integrity sha512-ROjdJNNJlqYX5cDQ0XO7ae9AD9asmYAR2nX2Y7ix1SA/hsWbdEAoL61ApqOPvoGZHldHq+yOhmRYlrTNBBcAMA==
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/webp-converter/-/webp-converter-2.3.2.tgz#bbd7dc2002e09df883d618788254da6c3eadb7aa"
+  integrity sha512-9kQ9Q/MPzUV2mye8Tv7vA6vDIPk77rI4AWWm2vSaCyGAEsxqyVZYeVU2MSJY5fLkf6u7G5K343vLxKubOxz16Q==
 
 whatwg-url@^7.0.0:
   version "7.0.0"
