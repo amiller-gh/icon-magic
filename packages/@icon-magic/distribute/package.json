@@ -22,6 +22,6 @@
     "@icon-magic/icon-models": "^2.2.9-beta.0",
     "@icon-magic/logger": "^2.2.9-beta.0",
     "@types/xmldom": "^0.1.29",
-    "xmldom": "^0.5.0"
+    "xmldom": "^0.6.0"
   }
 }
