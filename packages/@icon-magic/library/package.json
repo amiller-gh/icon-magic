@@ -21,7 +21,7 @@
     "@icon-magic/logger": "^2.2.9-beta.0",
     "@icon-magic/svg-to-png": "^2.2.9-beta.0",
     "cli-progress": "^3.6.0",
-    "fs-extra": "^8.1.0",
+    "fs-extra": "^10.0.0",
     "png-chunk-text": "^1.0.0",
     "png-chunks-encode": "^1.0.0",
     "png-chunks-extract": "^1.0.0",
